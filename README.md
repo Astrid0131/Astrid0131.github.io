@@ -1,4 +1,3 @@
-# acmbalances
-Website for  ACM 2nd BALANCES International Workshop
-on Big Data and Machine Learning for Smart Buildings and Cities
-https://www.acmbalances.org/
+# BAS2024
+Website for  BAS2024
+https://www.bas2024.org/
