@@ -1,0 +1,6 @@
+# add new background image
+.\assets\images\
+
+# background image name can be changed under: 
+.\project.mobirise
+.\assets\mobirise\css\mbr-additional.css
